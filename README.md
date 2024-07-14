@@ -17,4 +17,9 @@
 | Mary UI | [https://mary-ui.com](https://mary-ui.com/docs/installation) |
 | TallStackUI | [https://tallstackui.com](https://tallstackui.com) |
 | WireUI | [https://wireui.dev](https://wireui.dev) |
+
+## Tailwind Components
+| Libs | Link |
+| - | - |
 | DaisyUI | [https://daisyui.com](https://daisyui.com) |
+| Flowbite | [https://flowbite.com](https://flowbite.com) |
