@@ -24,3 +24,4 @@
 | DaisyUI | [https://daisyui.com](https://daisyui.com) |
 | Flowbite | [https://flowbite.com](https://flowbite.com) |
 | HyperUI | [https://www.hyperui.dev](https://www.hyperui.dev) |
+| TW elements | [https://tw-elements.com](https://tw-elements.com) |
