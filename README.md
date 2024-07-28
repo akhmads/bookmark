@@ -8,7 +8,6 @@
 | Livewire | [https://livewire.laravel.com](https://livewire.laravel.com/docs) |
 | Tailwind Css | [https://tailwindcss.com](https://tailwindcss.com/docs) |
 | Alpine JS | [https://alpinejs.dev](https://alpinejs.dev/start-here) |
-| Hero Icon | [https://heroicons.com](https://heroicons.com/) |
 
 ## TALL Stack UI
 
@@ -25,3 +24,8 @@
 | Flowbite | [https://flowbite.com](https://flowbite.com) |
 | HyperUI | [https://www.hyperui.dev](https://www.hyperui.dev) |
 | TW elements | [https://tw-elements.com](https://tw-elements.com) |
+
+## Icons
+| Libs | Link |
+| - | - |
+| Hero Icon | [https://heroicons.com](https://heroicons.com/) |
